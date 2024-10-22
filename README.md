@@ -1,4 +1,3 @@
-
 [![Masterhead](https://images.unsplash.com/photo-1506452819137-0422416856b8?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://github.com/fahim1488)
 
 <h1 align="center">Hello, I'm MD. Fahim Muntasir 👋</h1>
@@ -23,11 +22,8 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
 <a href="https://github.com/fahim1488" target="_blank">
-  <svg height="40" width="40" viewBox="0 0 16 16" version="1.1" aria-hidden="true">
-    <path fill="#FFFFFF" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.43c-2.22.48-2.69-1.08-2.69-1.08-.36-.91-.89-1.15-.89-1.15-.73-.5.05-.49.05-.49.81.06 1.24.84 1.24.84.72 1.23 1.88.87 2.34.66.07-.52.28-.87.51-1.07-1.77-.2-3.64-.89-3.64-3.97 0-.88.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.09-1.87 3.77-3.65 3.97.29.25.54.73.54 1.47v2.18c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
-  </svg>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
 </a>
-
 <a href="mailto:mdfahimuntasir1488.csenub@gmail.com">
   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" height="40" width="40" />
 </a>
@@ -73,4 +69,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1488&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
